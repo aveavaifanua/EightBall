@@ -1,2 +1,2 @@
 # EightBall
-Just my eightball code
+Eightball code
